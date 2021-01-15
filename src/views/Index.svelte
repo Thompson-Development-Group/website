@@ -10,6 +10,11 @@
 </script>
 
 <style>
+  .team-member {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+  }
 </style>
 
 <IndexNavbar />
@@ -501,14 +506,14 @@
 
       <div class="row">
         <div
-          class="col-xl-3 col-lg-4 col-md-6"
+          class="col-xl-3 col-lg-2 col-md-6"
           data-aos="fade-up"
           data-aos-delay="100">
-          <div class="member">
+          <div class="member team-member">
             <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="" />
             <div class="member-info">
               <div class="member-info-content">
-                <h4>Walter White</h4>
+                <h4>Tyler Thompson</h4>
                 <span>Chief Executive Officer</span>
               </div>
               <div class="social">
@@ -522,57 +527,15 @@
         </div>
 
         <div
-          class="col-xl-3 col-lg-4 col-md-6"
+          class="col-xl-3 col-lg-2 col-md-6"
           data-aos="fade-up"
           data-aos-delay="200">
-          <div class="member">
+          <div class="member team-member">
             <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="" />
             <div class="member-info">
               <div class="member-info-content">
-                <h4>Sarah Jhonson</h4>
-                <span>Product Manager</span>
-              </div>
-              <div class="social">
-                <a href=""><i class="icofont-twitter" /></a>
-                <a href=""><i class="icofont-facebook" /></a>
-                <a href=""><i class="icofont-instagram" /></a>
-                <a href=""><i class="icofont-linkedin" /></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div
-          class="col-xl-3 col-lg-4 col-md-6"
-          data-aos="fade-up"
-          data-aos-delay="300">
-          <div class="member">
-            <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="" />
-            <div class="member-info">
-              <div class="member-info-content">
-                <h4>William Anderson</h4>
-                <span>CTO</span>
-              </div>
-              <div class="social">
-                <a href=""><i class="icofont-twitter" /></a>
-                <a href=""><i class="icofont-facebook" /></a>
-                <a href=""><i class="icofont-instagram" /></a>
-                <a href=""><i class="icofont-linkedin" /></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div
-          class="col-xl-3 col-lg-4 col-md-6"
-          data-aos="fade-up"
-          data-aos-delay="400">
-          <div class="member">
-            <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="" />
-            <div class="member-info">
-              <div class="member-info-content">
-                <h4>Amanda Jepson</h4>
-                <span>Accountant</span>
+                <h4>Hannah Anderson</h4>
+                <span>Cheif Operating Officer</span>
               </div>
               <div class="social">
                 <a href=""><i class="icofont-twitter" /></a>
