@@ -1319,7 +1319,7 @@
           this.currentHeuristic = "manhattanDistance";
           if (this.numberOfObjects) {
             let objectNodeId = this.object;
-            document.getElementById("startButtonAddObject").innerHTML = '<a href="#">Add a Bomb</a></li>';
+            document.getElementById("startButtonAddObject").innerHTML = '<a href="/">Add a Bomb</a></li>';
             console.log(objectNodeId);
             document.getElementById(objectNodeId).className = "unvisited";
             this.object = null;
@@ -1399,7 +1399,7 @@
         }
 
         document.getElementById("startButtonClearBoard").onclick = () => {
-          document.getElementById("startButtonAddObject").innerHTML = '<a href="#"><span class="addBomb"><i class="fas fa-bomb"></i><i class="fas fa-plus"></i></span></a></li>';
+          document.getElementById("startButtonAddObject").innerHTML = '<a href="/"><span class="addBomb"><i class="fas fa-bomb"></i><i class="fas fa-plus"></i></span></a></li>';
           let navbarHeight = document.getElementById("navbarDiv").clientHeight;
           //let textHeight = document.getElementById("mainText").clientHeight + document.getElementById("algorithmDescriptor").clientHeight;
           let height = Math.floor((document.documentElement.clientHeight - navbarHeight) / 28);
@@ -1486,7 +1486,7 @@
               if (this.target === objectNodeId || this.start === objectNodeId || this.numberOfObjects === 1) {
                 console.log("Failure to place object.");
               } else {
-                document.getElementById("startButtonAddObject").innerHTML = '<a href="#"><span class="addBomb"><i class="fas fa-bomb"></i><i class="fas fa-minus"></i></span></a></li>';
+                document.getElementById("startButtonAddObject").innerHTML = '<a href="/"><span class="addBomb"><i class="fas fa-bomb"></i><i class="fas fa-minus"></i></span></a></li>';
                 this.clearPath("clickedButton");
                 this.object = objectNodeId;
                 this.numberOfObjects = 1;
@@ -1495,7 +1495,7 @@
               }
             } else {
               let objectNodeId = this.object;
-              document.getElementById("startButtonAddObject").innerHTML = '<a href="#"><span class="addBomb"><i class="fas fa-bomb"></i><i class="fas fa-plus"></i></span></a></li>';
+              document.getElementById("startButtonAddObject").innerHTML = '<a href="/"><span class="addBomb"><i class="fas fa-bomb"></i><i class="fas fa-plus"></i></span></a></li>';
               console.log(objectNodeId);
               document.getElementById(objectNodeId).className = "unvisited";
               this.object = null;

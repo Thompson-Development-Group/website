@@ -6,7 +6,7 @@
   import Footer from "components/Footers/Footer.svelte";
   import Hero from "components/Hero/Hero.svelte";
 
-  export let location;
+  //export let location;
 </script>
 
 <style>
@@ -305,7 +305,7 @@
           data-aos-delay="100">
           <div class="icon-box">
             <div class="icon"><i class="bx bxl-dribbble" /></div>
-            <h4 class="title"><a href="">Product Development</a></h4>
+            <h4 class="title"><a href="/">Product Development</a></h4>
             <p class="description">we create awesome brands</p>
           </div>
         </div>
@@ -316,7 +316,7 @@
           data-aos-delay="200">
           <div class="icon-box">
             <div class="icon"><i class="bx bx-file" /></div>
-            <h4 class="title"><a href="">Testing Professionals</a></h4>
+            <h4 class="title"><a href="/">Testing Professionals</a></h4>
             <p class="description">
               Duis aute irure dolor in reprehenderit in voluptate velit esse
               cillum dolore
@@ -330,7 +330,7 @@
           data-aos-delay="300">
           <div class="icon-box">
             <div class="icon"><i class="bx bx-tachometer" /></div>
-            <h4 class="title"><a href="">Application Development</a></h4>
+            <h4 class="title"><a href="/">Application Development</a></h4>
             <p class="description">
               Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
               officia
@@ -344,7 +344,7 @@
           data-aos-delay="400">
           <div class="icon-box">
             <div class="icon"><i class="bx bx-layer" /></div>
-            <h4 class="title"><a href="">Graphic Design</a></h4>
+            <h4 class="title"><a href="/">Graphic Design</a></h4>
             <p class="description">
               At vero eos et accusamus et iusto odio dignissimos ducimus qui
               blanditiis
@@ -475,10 +475,10 @@
                 <span>Chief Executive Officer</span>
               </div>
               <div class="social">
-                <a href=""><i class="icofont-twitter" /></a>
-                <a href=""><i class="icofont-facebook" /></a>
-                <a href=""><i class="icofont-instagram" /></a>
-                <a href=""><i class="icofont-linkedin" /></a>
+                <a href="/"><i class="icofont-twitter" /></a>
+                <a href="/"><i class="icofont-facebook" /></a>
+                <a href="/"><i class="icofont-instagram" /></a>
+                <a href="/"><i class="icofont-linkedin" /></a>
               </div>
             </div>
           </div>
@@ -496,10 +496,10 @@
                 <span>Cheif Operating Officer</span>
               </div>
               <div class="social">
-                <a href=""><i class="icofont-twitter" /></a>
-                <a href=""><i class="icofont-facebook" /></a>
-                <a href=""><i class="icofont-instagram" /></a>
-                <a href=""><i class="icofont-linkedin" /></a>
+                <a href="/"><i class="icofont-twitter" /></a>
+                <a href="/"><i class="icofont-facebook" /></a>
+                <a href="/"><i class="icofont-instagram" /></a>
+                <a href="/"><i class="icofont-linkedin" /></a>
               </div>
             </div>
           </div>
