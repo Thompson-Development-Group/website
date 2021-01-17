@@ -5,9 +5,9 @@
         <h1>Build Better Products With Us!</h1>
         <h2>
             We are team of talanted professions making apps, websites and
-            products take off!
+            product brands!
         </h2>
-        <a href="#about" class="btn-get-started scrollto">Get Started</a>
+        <a href="#about" class="btn-get-started scrollto">Learn More</a>
         <img
             src="assets/img/hero-img.png"
             class="img-fluid hero-img"

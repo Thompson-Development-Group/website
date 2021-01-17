@@ -16,8 +16,7 @@
             src="/assets/img/blue.png"
             alt="Thompson Logo" />
           <p>
-            Madison, WI 53713<br />
-            United States
+            Madison, WI 53713, United States
             <br /><br />
             <strong>Email:</strong>
             contact@thompsondevgroup.com<br />
@@ -87,7 +86,9 @@
   </div>
 
   <div class="container d-md-flex py-4">
-    <div class="me-md-auto text-center text-md-start">
+    <div
+      class="me-md-auto text-center text-md-center"
+      style="margin-left:auto;">
       <div class="copyright">
         {date}
         &copy;
@@ -103,7 +104,6 @@
       <a href="#" class="twitter"><i class="bx bxl-twitter" /></a>
       <a href="#" class="facebook"><i class="bx bxl-facebook" /></a>
       <a href="#" class="instagram"><i class="bx bxl-instagram" /></a>
-      <a href="#" class="google-plus"><i class="bx bxl-skype" /></a>
       <a href="#" class="linkedin"><i class="bx bxl-linkedin" /></a>
     </div>
   </div>

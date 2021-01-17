@@ -28,14 +28,12 @@
           class="content col-xl-5 d-flex align-items-stretch"
           data-aos="fade-right">
           <div class="content">
-            <h3>Voluptatem dignissimos provident quasi</h3>
+            <h3>Our Values</h3>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
               eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis
               aute irure dolor in reprehenderit
             </p>
-            <a href="#" class="about-btn">About us
-              <i class="bx bx-chevron-right" /></a>
           </div>
         </div>
         <div class="col-xl-7 d-flex align-items-stretch" data-aos="fade-left">
@@ -87,42 +85,6 @@
               </div>
             </div>
           </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <section id="clients" class="clients">
-    <div class="container" data-aos="zoom-in">
-      <div class="row">
-        <div
-          class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-          <img src="assets/img/clients/client-1.png" class="img-fluid" alt="" />
-        </div>
-
-        <div
-          class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-          <img src="assets/img/clients/client-2.png" class="img-fluid" alt="" />
-        </div>
-
-        <div
-          class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-          <img src="assets/img/clients/client-3.png" class="img-fluid" alt="" />
-        </div>
-
-        <div
-          class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-          <img src="assets/img/clients/client-4.png" class="img-fluid" alt="" />
-        </div>
-
-        <div
-          class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-          <img src="assets/img/clients/client-5.png" class="img-fluid" alt="" />
-        </div>
-
-        <div
-          class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-          <img src="assets/img/clients/client-6.png" class="img-fluid" alt="" />
         </div>
       </div>
     </div>
@@ -343,11 +305,8 @@
           data-aos-delay="100">
           <div class="icon-box">
             <div class="icon"><i class="bx bxl-dribbble" /></div>
-            <h4 class="title"><a href="">Lorem Ipsum</a></h4>
-            <p class="description">
-              Voluptatum deleniti atque corrupti quos dolores et quas molestias
-              excepturi
-            </p>
+            <h4 class="title"><a href="">Product Development</a></h4>
+            <p class="description">we create awesome brands</p>
           </div>
         </div>
 
@@ -357,7 +316,7 @@
           data-aos-delay="200">
           <div class="icon-box">
             <div class="icon"><i class="bx bx-file" /></div>
-            <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
+            <h4 class="title"><a href="">Testing Professionals</a></h4>
             <p class="description">
               Duis aute irure dolor in reprehenderit in voluptate velit esse
               cillum dolore
@@ -371,7 +330,7 @@
           data-aos-delay="300">
           <div class="icon-box">
             <div class="icon"><i class="bx bx-tachometer" /></div>
-            <h4 class="title"><a href="">Magni Dolores</a></h4>
+            <h4 class="title"><a href="">Application Development</a></h4>
             <p class="description">
               Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
               officia
@@ -385,7 +344,7 @@
           data-aos-delay="400">
           <div class="icon-box">
             <div class="icon"><i class="bx bx-layer" /></div>
-            <h4 class="title"><a href="">Nemo Enim</a></h4>
+            <h4 class="title"><a href="">Graphic Design</a></h4>
             <p class="description">
               At vero eos et accusamus et iusto odio dignissimos ducimus qui
               blanditiis
@@ -396,7 +355,7 @@
     </div>
   </section>
 
-  <section id="testimonials" class="testimonials section-bg">
+  <!--<section id="testimonials" class="testimonials section-bg">
     <div class="container" data-aos="fade-up">
       <div class="section-title">
         <h2>Testimonials</h2>
@@ -490,17 +449,16 @@
         </div>
       </div>
     </div>
-  </section>
+  </section>-->
 
   <section id="team" class="team">
     <div class="container" data-aos="fade-up">
       <div class="section-title">
         <h2>Team</h2>
         <p>
-          Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex
-          aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos
-          quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia
-          fugiat sit in iste officiis commodi quidem hic quas.
+          Our team is two object oriented entrapuerers who are goal driven to
+          deliver the very best products. No matter what comes through our
+          pipeline, it is given detail driven results from conception to reality
         </p>
       </div>
 
@@ -510,7 +468,7 @@
           data-aos="fade-up"
           data-aos-delay="100">
           <div class="member team-member">
-            <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="" />
+            <img src="assets/img/team/team-1.png" class="img-fluid" alt="" />
             <div class="member-info">
               <div class="member-info-content">
                 <h4>Tyler Thompson</h4>
@@ -550,74 +508,7 @@
     </div>
   </section>
 
-  <section id="pricing" class="pricing section-bg">
-    <div class="container" data-aos="fade-up">
-      <div class="section-title">
-        <h2>Pricing</h2>
-        <p>
-          Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex
-          aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos
-          quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia
-          fugiat sit in iste officiis commodi quidem hic quas.
-        </p>
-      </div>
-
-      <div class="row">
-        <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="200">
-          <div class="box">
-            <h3>Free</h3>
-            <h4><sup>$</sup>0<span> / month</span></h4>
-            <ul>
-              <li>Aida dere</li>
-              <li>Nec feugiat nisl</li>
-              <li>Nulla at volutpat dola</li>
-              <li class="na">Pharetra massa</li>
-              <li class="na">Massa ultricies mi</li>
-            </ul>
-            <div class="btn-wrap"><a href="#" class="btn-buy">Buy Now</a></div>
-          </div>
-        </div>
-
-        <div
-          class="col-lg-4 col-md-6 mt-4 mt-md-0"
-          data-aos="zoom-in"
-          data-aos-delay="100">
-          <div class="box featured">
-            <h3>Business</h3>
-            <h4><sup>$</sup>19<span> / month</span></h4>
-            <ul>
-              <li>Aida dere</li>
-              <li>Nec feugiat nisl</li>
-              <li>Nulla at volutpat dola</li>
-              <li>Pharetra massa</li>
-              <li class="na">Massa ultricies mi</li>
-            </ul>
-            <div class="btn-wrap"><a href="#" class="btn-buy">Buy Now</a></div>
-          </div>
-        </div>
-
-        <div
-          class="col-lg-4 col-md-6 mt-4 mt-lg-0"
-          data-aos="zoom-in"
-          data-aos-delay="200">
-          <div class="box">
-            <h3>Developer</h3>
-            <h4><sup>$</sup>29<span> / month</span></h4>
-            <ul>
-              <li>Aida dere</li>
-              <li>Nec feugiat nisl</li>
-              <li>Nulla at volutpat dola</li>
-              <li>Pharetra massa</li>
-              <li>Massa ultricies mi</li>
-            </ul>
-            <div class="btn-wrap"><a href="#" class="btn-buy">Buy Now</a></div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <section id="faq" class="faq">
+  <!--<section id="faq" class="faq">
     <div class="container" data-aos="fade-up">
       <div class="section-title">
         <h2>Frequently Asked Questions</h2>
@@ -728,17 +619,16 @@
         </li>
       </ul>
     </div>
-  </section>
+  </section>-->
 
   <section id="contact" class="contact section-bg">
     <div class="container" data-aos="fade-up">
       <div class="section-title">
         <h2>Contact</h2>
         <p>
-          Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex
-          aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos
-          quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia
-          fugiat sit in iste officiis commodi quidem hic quas.
+          Contact us if you have a need for one of our services! We will get
+          back to you in 1-2 business days. Please, No soliciting, We have a
+          very strict no Solicitation policy
         </p>
       </div>
 
@@ -765,7 +655,7 @@
               <div class="info-box mt-4">
                 <i class="bx bx-phone-call" />
                 <h3>Call Us</h3>
-                <p>+1 5589 55488 55<br />+1 6678 254445 41</p>
+                <p><br />+1 ‪(608) 313-4806‬</p>
               </div>
             </div>
           </div>

@@ -63,16 +63,16 @@
                         <div class="text-lg leading-relaxed m-4 text-gray-600">
                             <p>
                                 These terms of service outline the rules and
-                                regulations for the use of TylerThompson's
-                                Website.
+                                regulations for the use of Thompson Development
+                                Group's Website.
                             </p>
 
                             <p>
                                 By accessing this website we assume you accept
                                 these terms of service in full. Do not continue
-                                to use TylerThompson's website if you do not
-                                accept all of the terms of service stated on
-                                this page.
+                                to use Thompson Development Group's website if
+                                you do not accept all of the terms of service
+                                stated on this page.
                             </p>
                             <p>
                                 The following terminology applies to these Terms
@@ -102,10 +102,10 @@
 
                             <h2>Cookies</h2>
                             <p>
-                                We employ the use of cookies. By using
-                                TylerThompson's website you consent to the use
-                                of cookies in accordance with TylerThompson's
-                                privacy policy.
+                                We employ the use of cookies. By using Thompson
+                                Development Group's website you consent to the
+                                use of cookies in accordance with Thompson
+                                Development Group's privacy policy.
                             </p>
                             <p>
                                 Most of the modern day interactive web sites use
@@ -119,14 +119,14 @@
 
                             <h2>License</h2>
                             <p>
-                                Unless otherwise stated, TylerThompson and/or
-                                it's licensors own the intellectual property
-                                rights for all material on TylerThompson. All
-                                intellectual property rights are reserved. You
-                                may view and/or print pages from
-                                www.thompsondevgroup.com for your own personal
-                                use subject to restrictions set in these terms
-                                of service.
+                                Unless otherwise stated, Thompson Development
+                                Group and/or it's licensors own the intellectual
+                                property rights for all material on Thompson
+                                Development Group. All intellectual property
+                                rights are reserved. You may view and/or print
+                                pages from www.thompsondevgroup.com for your own
+                                personal use subject to restrictions set in
+                                these terms of service.
                             </p>
                             <p>You must not:</p>
                             <ol>
@@ -144,8 +144,8 @@
                                 </li>
                             </ol>
                             <p>
-                                Redistribute content from TylerThompson (unless
-                                content is specifically made for
+                                Redistribute content from Thompson Development
+                                Group (unless content is specifically made for
                                 redistribution).
                             </p>
 
@@ -160,14 +160,15 @@
                                     opportunity for users to post and exchange
                                     opinions, information, material and data
                                     ('Comments') in areas of the website.
-                                    TylerThompson does not screen, edit, publish
-                                    or review Comments prior to their appearance
-                                    on the website and Comments do not reflect
-                                    the views or opinions of TylerThompson, its
-                                    agents or affiliates. Comments reflect the
-                                    view and opinion of the person who posts
-                                    such view or opinion. To the extent
-                                    permitted by applicable laws TylerThompson
+                                    Thompson Development Group does not screen,
+                                    edit, publish or review Comments prior to
+                                    their appearance on the website and Comments
+                                    do not reflect the views or opinions of
+                                    Thompson Development Group, its agents or
+                                    affiliates. Comments reflect the view and
+                                    opinion of the person who posts such view or
+                                    opinion. To the extent permitted by
+                                    applicable laws Thompson Development Group
                                     shall not be responsible or liable for the
                                     Comments or for any loss cost, liability,
                                     damages or expenses caused and or suffered
@@ -176,12 +177,12 @@
                                     website.
                                 </li>
                                 <li>
-                                    TylerThompson reserves the right to monitor
-                                    all Comments and to remove any Comments
-                                    which it considers in its absolute
-                                    discretion to be inappropriate, offensive or
-                                    otherwise in breach of these Terms of
-                                    Service.
+                                    Thompson Development Group reserves the
+                                    right to monitor all Comments and to remove
+                                    any Comments which it considers in its
+                                    absolute discretion to be inappropriate,
+                                    offensive or otherwise in breach of these
+                                    Terms of Service.
                                 </li>
                                 <li>
                                     You warrant and represent that:
@@ -217,7 +218,7 @@
                                 </li>
                                 <li>
                                     You hereby grant to
-                                    <strong>TylerThompson</strong>
+                                    <strong>Thompson Development Group</strong>
                                     a non-exclusive royalty-free license to use,
                                     reproduce, edit and authorize others to use,
                                     reproduce and edit any of your Comments in
@@ -306,12 +307,12 @@
                                 to link); (b)the organization does not have an
                                 unsatisfactory record with us; (c) the benefit
                                 to us from the visibility associated with the
-                                hyperlink outweighs the absence of
-                                TylerThompson; and (d) where the link is in the
-                                context of general resource information or is
-                                otherwise consistent with editorial content in a
-                                newsletter or similar product furthering the
-                                mission of the organization.
+                                hyperlink outweighs the absence of Thompson
+                                Development Group; and (d) where the link is in
+                                the context of general resource information or
+                                is otherwise consistent with editorial content
+                                in a newsletter or similar product furthering
+                                the mission of the organization.
                             </p>
 
                             <p>
@@ -361,9 +362,9 @@
                                 </li>
                             </ol>
                             <p>
-                                No use of TylerThompson's logo or other artwork
-                                will be allowed for linking absent a trademark
-                                license agreement.
+                                No use of Thompson Development Group's logo or
+                                other artwork will be allowed for linking absent
+                                a trademark license agreement.
                             </p>
                             <h2>Iframes</h2>
                             <p>
