@@ -27,6 +27,7 @@
     "@rollup/plugin-alias": "3.1.1",
     "@tailwindcss/custom-forms": "0.2.1",
     "chart.js": "2.9.3",
+    "nodemailer": "^6.4.17",
     "sirv-cli": "1.0.6",
     "svelte-routing": "1.4.2",
     "tailwindcss": "1.8.10"
