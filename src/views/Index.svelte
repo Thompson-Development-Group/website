@@ -30,9 +30,10 @@
           <div class="content">
             <h3>Our Values</h3>
             <p>
-              At Thompson Development Group, we strive to Incorporate our values
-              Into our daily practice. We operate our companies based on these
-              values, and hope to share similar values with our customers.
+              At Thompson Development Group, we strive to incorporate our values
+              into our daily practice. We operate our company and brands based
+              on these values, and hope to share similar values with our
+              customers.
             </p>
           </div>
         </div>
@@ -69,9 +70,9 @@
                 <i class="bx bx-images" />
                 <h4>Positive Message</h4>
                 <p>
-                  Thompson Development Group strives to improve the world
-                  arounds us with each an every one of our products. We aim to
-                  spread positivity, hope, and compassion.
+                  Thompson Development Group strives to improve the world around
+                  us with each an every one of our products. We aim to spread
+                  positivity, hope, and compassion.
                 </p>
               </div>
               <div
@@ -113,21 +114,22 @@
         <div class="col-md-7 pt-4" data-aos="fade-left" data-aos-delay="100">
           <h3>Software Architecture</h3>
           <p class="font-italic">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            We build each of the applications that we work on to scale. We
+            specialize in micro-services, custom frameworks, and full server
+            stacks
           </p>
           <ul>
             <li>
               <i class="icofont-check" />
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat.
+              Languages we have used: NodeJS, Java, Dart, Svelte, PHP
             </li>
             <li>
               <i class="icofont-check" />
-              Duis aute irure dolor in reprehenderit in voluptate velit.
+              Datastores we use: MongoDB, and various SQL options
             </li>
             <li>
               <i class="icofont-check" />
-              Ullam est qui quos consequatur eos accusamus.
+              Infrastructures we use: AWS, Heroku, Azure, and Google Cloud
             </li>
           </ul>
         </div>
@@ -140,15 +142,14 @@
         <div class="col-md-7 pt-5 order-2 order-md-1" data-aos="fade-right">
           <h3>Graphic Design & Marketing</h3>
           <p class="font-italic">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Creating specialized graphic designs and developing marketing tools
+            is one of our specialties at Thompson Development Group.
           </p>
           <p>
-            Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-            irure dolor in reprehenderit in voluptate velit esse cillum dolore
-            eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-            proident, sunt in culpa qui officia deserunt mollit anim id est
-            laborum
+            We strive to create eye-catching, meaningful, detail-oriented, and
+            one-of-a-kind spreads to help our customers display the brands they
+            know and love. We hope to make personalized marketing plans and
+            offer custom content creation.
           </p>
         </div>
       </div>
@@ -160,22 +161,29 @@
         <div class="col-md-7 pt-5" data-aos="fade-left">
           <h3>Handmade Products</h3>
           <p>
-            Cupiditate placeat cupiditate placeat est ipsam culpa. Delectus quia
-            minima quod. Sunt saepe odit aut quia voluptatem hic voluptas dolor
-            doloremque.
+            Thompson Development Group works hard to provide quality products to
+            its customers. That’s why we like to create as many of our products
+            as we can by hand.
+          </p>
+          <p>
+            We hope to ensure the highest quality products and we enjoy putting
+            our own blood, sweat, and tears into our product development
           </p>
           <ul>
             <li>
               <i class="icofont-check" />
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat.
+              Handmade Candles: 100% Soy Wax, hand-poured, hand-stirred, and
+              hand-packaged
             </li>
             <li>
               <i class="icofont-check" />
-              Duis aute irure dolor in reprehenderit in voluptate velit.
+              Handmade Apparel: High-quality clothing and accessors,
+              hand-pressed with the finest materials
             </li>
             <li>
               <i class="icofont-check" />
-              Facilis ut et voluptatem aperiam. Autem soluta ad fugiat.
+              Hand-drawn illustrations: Digital drawings and illustrations
+              crafted with the finest care
             </li>
           </ul>
         </div>
@@ -188,15 +196,16 @@
         <div class="col-md-7 pt-5 order-2 order-md-1" data-aos="fade-right">
           <h3>Digital Design & Illustration</h3>
           <p class="font-italic">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Thompson Development Groups aims to showcase many talents. Our own
+            Chief Operating Officer spends hours designing and drawing intricate
+            digital illustrations. Through following customer desires and
+            utilizing individual taste, our COO is able to create digital
+            masterpieces.
           </p>
           <p>
-            Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-            irure dolor in reprehenderit in voluptate velit esse cillum dolore
-            eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-            proident, sunt in culpa qui officia deserunt mollit anim id est
-            laborum
+            With a specialty in digital portraits, designs, and communication,
+            Thompson Development Group is able to spread their mission, their
+            positivity, and their hope through digital esign and illustration.
           </p>
         </div>
       </div>
@@ -210,11 +219,15 @@
           class="col-lg-4 col-md-6 content-item"
           data-aos="fade-up"
           data-aos-delay="100">
-          <span>01</span>
-          <h4>Errand Apparel</h4>
+          <span><img
+              src="/assets/img/errand-logo.png"
+              alt="Errand Apparel"
+              style="width: 80px; margin-left: auto;margin-right: auto;zoom: 1.9;" /></span>
+          <h4 style="text-align: center;">Errand Apparel</h4>
           <p>
-            Ulamco laboris nisi ut aliquip ex ea commodo consequat. Et
-            consectetur ducimus vero placeat
+            Quality hand-made products ranging from t-shirts, sweatshirts,
+            backpacks, mugs, tumblers and more! Errand Apparel creates
+            customizable content for individual wear and use!
           </p>
         </div>
 
@@ -222,11 +235,16 @@
           class="col-lg-4 col-md-6 content-item"
           data-aos="fade-up"
           data-aos-delay="200">
-          <span>02</span>
-          <h4>Hap-Bee Canndle Co.</h4>
+          <span style="overflow: hidden;
+    max-height: 145px;"><img
+              src="/assets/img/hapbee-logo.png"
+              alt="Hap-Bee Candle Co."
+              style="width: 120px; margin-left: auto;margin-right: auto; zoom: 1.9;" /></span>
+          <h4 style="text-align: center;">Hap-Bee Candle Co.</h4>
           <p>
-            Dolorem est fugiat occaecati voluptate velit esse. Dicta veritatis
-            dolor quod et vel dire leno para dest
+            Using 100% Soy-Wax, Hap-Bee Candle Co. hand-pours quality candles
+            with strong and soothing aromas. Hap-Bee Candle Co. offers a 12-oz
+            candle, a 6-oz candle, and wax melts with this custom brand!
           </p>
         </div>
 
@@ -234,47 +252,16 @@
           class="col-lg-4 col-md-6 content-item"
           data-aos="fade-up"
           data-aos-delay="300">
-          <span>03</span>
-          <h4>Sassy Sis Illustrations</h4>
+          <span><img
+              src="/assets/img/sassy-logo.png"
+              alt="Sassy Sis Illustrations"
+              style="width: 120px; margin-left: auto;margin-right: auto; zoom: 1.9;" /></span>
+          <h4 style="text-align: center;">Sassy Sister</h4>
           <p>
-            Molestiae officiis omnis illo asperiores. Aut doloribus vitae sunt
-            debitis quo vel nam quis
-          </p>
-        </div>
-
-        <div
-          class="col-lg-4 col-md-6 content-item"
-          data-aos="fade-up"
-          data-aos-delay="100">
-          <span>04</span>
-          <h4>Repellendus molestiae</h4>
-          <p>
-            Inventore quo sint a sint rerum. Distinctio blanditiis deserunt quod
-            soluta quod nam mider lando casa
-          </p>
-        </div>
-
-        <div
-          class="col-lg-4 col-md-6 content-item"
-          data-aos="fade-up"
-          data-aos-delay="200">
-          <span>05</span>
-          <h4>Sapiente Magnam</h4>
-          <p>
-            Vitae dolorem in deleniti ipsum omnis tempore voluptatem. Qui
-            possimus est repellendus est quibusdam
-          </p>
-        </div>
-
-        <div
-          class="col-lg-4 col-md-6 content-item"
-          data-aos="fade-up"
-          data-aos-delay="300">
-          <span>06</span>
-          <h4>Facilis Impedit</h4>
-          <p>
-            Quis eum numquam veniam ea voluptatibus voluptas. Excepturi aut
-            nostrum repudiandae voluptatibus corporis sequi
+            The Sassy Sister started as a hobby and has quickly turned into a
+            passion. While bringing reality to life with digital creations, this
+            brand aims to create customized snapshots into the lives and stories
+            of its customers.
           </p>
         </div>
       </div>
@@ -286,10 +273,8 @@
       <div class="section-title">
         <h2>Services</h2>
         <p>
-          Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex
-          aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos
-          quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia
-          fugiat sit in iste officiis commodi quidem hic quas.
+          We create a personal experience with a professional attitude. We will
+          go above and beyond to make your ideas come to life.
         </p>
       </div>
 

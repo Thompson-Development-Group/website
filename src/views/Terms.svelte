@@ -26,7 +26,7 @@
                         class="w-full lg:w-6/12 px-4 ml-auto mr-auto text-center">
                         <div class="pr-12">
                             <h1 class="text-white font-semibold text-5xl">
-                                Tyler's Terms of Use
+                                Thompson Dev Group's Terms of Use
                             </h1>
                             <p class="mt-4 text-lg text-gray-300">
                                 This tells how you can use our site
