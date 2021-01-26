@@ -239,7 +239,7 @@
     max-height: 145px;"><img
               src="/assets/img/hapbee-logo.png"
               alt="Hap-Bee Candle Co."
-              style="width: 120px; margin-left: auto;margin-right: auto; zoom: 1.9;" /></span>
+              style="width: 120px; margin-left: auto;margin-right: auto; zoom: 1.9;margin-top: -14px;" /></span>
           <h4 style="text-align: center;">Hap-Bee Candle Co.</h4>
           <p>
             Using 100% Soy-Wax, Hap-Bee Candle Co. hand-pours quality candles
@@ -255,7 +255,7 @@
           <span><img
               src="/assets/img/sassy-logo.png"
               alt="Sassy Sis Illustrations"
-              style="width: 120px; margin-left: auto;margin-right: auto; zoom: 1.9;" /></span>
+              style="width: 120px; margin-left: auto;margin-right: auto; zoom: 1.5;margin-top: -15px;" /></span>
           <h4 style="text-align: center;">Sassy Sister</h4>
           <p>
             The Sassy Sister started as a hobby and has quickly turned into a
