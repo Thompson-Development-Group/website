@@ -15,6 +15,10 @@
     margin-left: auto;
     margin-right: auto;
   }
+  .site-links {
+    font-size: 14px !important;
+    text-align: center;
+  }
 </style>
 
 <IndexNavbar />
@@ -225,6 +229,8 @@
               style="width: 80px; margin-left: auto;margin-right: auto;zoom: 1.9;" /></span>
           <h4 style="text-align: center;">Errand Apparel</h4>
           <p>
+            <span class="site-links"><a
+                href="https://www.errandapparel.com">Shop Custom Apparel</a></span>
             Quality hand-made products ranging from t-shirts, sweatshirts,
             backpacks, mugs, tumblers and more! Errand Apparel creates
             customizable content for individual wear and use!
@@ -242,6 +248,8 @@
               style="width: 120px; margin-left: auto;margin-right: auto; zoom: 1.9;margin-top: -14px;" /></span>
           <h4 style="text-align: center;">Hap-Bee Candle Co.</h4>
           <p>
+            <span class="site-links"><a href="https://www.hap-bee.com">Shop
+                Candles</a></span>
             Using 100% Soy-Wax, Hap-Bee Candle Co. hand-pours quality candles
             with strong and soothing aromas. Hap-Bee Candle Co. offers a 12-oz
             candle, a 6-oz candle, and wax melts with this custom brand!

@@ -1,5 +1,6 @@
 <script>
     import { link } from "svelte-routing";
+    import Navbar from "components/Navbars/SignedOutNavbar.svelte";
 
     // core components
     import Footer from "components/Footers/Footer.svelte";
@@ -8,6 +9,8 @@
 </script>
 
 <div>
+    <Navbar />
+
     <main>
         <div
             class="relative pt-16 pb-32 flex content-center items-center justify-center min-h-screen-75">
@@ -26,7 +29,7 @@
                         class="w-full lg:w-6/12 px-4 ml-auto mr-auto text-center">
                         <div class="pr-12">
                             <h1 class="text-white font-semibold text-5xl">
-                                Thompson Dev Group's Terms of Use
+                                Our Terms of Use
                             </h1>
                             <p class="mt-4 text-lg text-gray-300">
                                 This tells how you can use our site

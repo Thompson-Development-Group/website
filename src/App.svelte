@@ -15,7 +15,6 @@
   <!-- no layout pages -->
   <Route path="terms" component={Terms} />
   <Route path="privacy" component={Privacy} />
-  ]
   <Route path="/" component={Index} />
   <Route path="*" component={ErrorPage} />
 </Router>
